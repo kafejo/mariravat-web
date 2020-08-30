@@ -417,7 +417,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 
 #navbar-logo {
-    width: 177px;
+    max-width: 177px;
 }
 
 .navbar-header .brand{
