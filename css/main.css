@@ -27,7 +27,7 @@
     DynamicLayers
     ========================================================================== */
 
-    @import url('https://fonts.googleapis.com/css?family=Lato|Prata|Work+Sans:600&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Lato|Unna|Work+Sans:600&display=swap');
 
 /*  ==========================================================================
     1.0 Common Styles
@@ -48,12 +48,12 @@ body{
     overflow-x: hidden;
 }
 h1{
-    font-family: 'Prata', sans-serif;
+    font-family: 'Unna', sans-serif;
     -webkit-font-smoothing:antialiased;
     color: #fff;
 }
 h2, h3, h4, h5, h6{
-    font-family: 'Prata', sans-serif;
+    font-family: 'Unna', sans-serif;
     -webkit-font-smoothing:antialiased;
     color: #282828;
 }
@@ -1208,7 +1208,7 @@ select.form-control:not([size]):not([multiple]){
     margin: 0 0 25px;
 }
 .testimonial_item p{
-    font-family: "Prata", sans-serif;
+    font-family: "Unna", sans-serif;
     font-size: 24px;
     line-height: 36px;
 }
@@ -1279,7 +1279,7 @@ select.form-control:not([size]):not([multiple]){
     width: 0;
 }
 .pricing_section .price_wrap .price_list li span.price{
-    font-family: "Prata",sans-serif;
+    font-family: "Unna",sans-serif;
     font-size: 24px;
     color: #9e8a78;
     font-weight: 700;
@@ -1600,7 +1600,7 @@ select.form-control:not([size]):not([multiple]){
 
 }
 .thumb-post li a{
-    font-family: "Prata",sans-serif;
+    font-family: "Unna",sans-serif;
     font-size: 15px;
     font-weight: 600;
     color: #303133;
@@ -1680,7 +1680,7 @@ blockquote{
     z-index: 1;
 }
 blockquote p{
-    font-family: "Prata",sans-serif;
+    font-family: "Unna",sans-serif;
     font-size: 22px;
     line-height: 32px;
     color: #303133;
@@ -1846,7 +1846,7 @@ blockquote span{
     margin-bottom: 20px;
 }
 .blog-single-wrap .comments-area .comments-meta h4{
-    font-family: "Prata", sans-serif;
+    font-family: "Unna", sans-serif;
     font-size: 18px;
     font-weight: 600;
     letter-spacing: -1px;
