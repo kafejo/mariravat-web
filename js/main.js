@@ -53,7 +53,7 @@
 =========================================================================*/
     $('#main-slider').owlCarousel({
         loop:true,
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 500,
         items: 1,
         nav:true,
