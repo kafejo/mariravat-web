@@ -640,7 +640,7 @@ ul.nav > li > a.active{
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
-    height: 670px;
+    height: 600px;
 }
 .slider_content{}
 .slider_content h3{
