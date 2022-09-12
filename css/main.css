@@ -1169,7 +1169,7 @@ select.form-control:not([size]):not([multiple]){
 	padding: 20px 0;
 	position: absolute;
 	left: 0;
-	bottom: -100px;
+	bottom: -220px;
 	width: 100%;
 }
 .team_section .team_members .team_member:hover .overlay{
@@ -2008,6 +2008,15 @@ blockquote span{
 .footer_widget p{
     color: #999;
 }
+
+.footer_widget a {
+    color: #999;
+}
+
+.footer_widget a:hover {
+    color: #fff;
+}
+
 .subscribe_form {
     display: block;
     text-align: center;
